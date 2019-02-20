@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaffeSolution.Web", "KaffeSolution.Web\KaffeSolution.Web.csproj", "{B4E47456-08F3-4AF8-8799-272D49A5862A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kaffe.Web", "KaffeSolution.Web\Kaffe.Web.csproj", "{B4E47456-08F3-4AF8-8799-272D49A5862A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
